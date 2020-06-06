@@ -1,0 +1,9 @@
+ALGORITHM,DESCRIPTION
+0,top-down sequential
+1,top-down parallel
+2,top-down parallel (tasks)
+3,bottom-up sequential
+4,bottom-up parallel
+5,bottom-up parallel (tasks 250)
+6,bottom-up parallel (tasks 500)
+7,bottom-up parallel (tasks 1000)
